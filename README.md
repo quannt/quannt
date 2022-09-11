@@ -7,4 +7,6 @@ I'm a software engineer, currently focused on the frontend side of the web. Some
 - :hotel: [Gustodian - Solution for the hospitality industry](http://gustodian.com/product-suite.html).
 - :ok_woman: [ADRA donation portal](https://donations.adra.org/).
 
-and [many more](https://stackoverflow.com/story/quannt)...
+and [many more](https://quannt.notion.site/Portfolio-Ngo-Tung-Quan-0ec7ff86cfea4962983a9ad4dcfe25e8)...
+
+Checkout pinned repositories below for some sample code written by me.
